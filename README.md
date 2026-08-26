@@ -34,9 +34,11 @@ onchain protocols.
 
 | | Portfolio | What's in it |
 |---|---|---|
-| 🖼️ | **[NFT Engineering](https://github.com/pranay123-stack/nft-engineering)** | Marketplaces, compliant asset tokenization with identity and transfer rules, in-game NFT economies |
+| 🖼️ | **[Web3 NFT](https://github.com/pranay123-stack/web3-nft)** | Marketplaces, compliant asset tokenization with identity and transfer rules, in-game NFT economies |
 | 🏢 | **[RWA — Real Estate](https://github.com/pranay123-stack/rwa-real-estate)** | Permissioned property tokens with an onchain identity registry and compliance module |
 | 🏦 | **[DeFi Protocols](https://github.com/pranay123-stack/defi-protocols)** | Identity-gated undercollateralized lending on Monad; collateralized lending with fuzz tests |
+| 💳 | **[x402 Agent Payments](https://github.com/pranay123-stack/x402-agent-payments)** | Two live pay-per-call endpoints settling in real USDT and USDC across X Layer and Base mainnet |
+| 👛 | **[Web3 Wallet](https://github.com/pranay123-stack/web3-wallet)** | Non-custodial design, EIP-712/EIP-3009 authorisation, programmable authority for autonomous accounts |
 |  🕹️ | **[Web3 Gaming](https://github.com/pranay123-stack/web3-gaming)** | Tokenized assets, server-attested rewards and play-to-earn mechanics — contracts to game client |
 | 🔍 | **[Web3 Auditing](https://github.com/pranay123-stack/web3-auditing)** | Solana static analysis, token risk scoring, fuzz and invariant security testing |
 | 🏗️ | **[Web3 Infrastructure](https://github.com/pranay123-stack/web3-infrastructure)** | Message bridges, validator registries, Merkle proofs, lock-and-mint bridging |

@@ -100,7 +100,7 @@ the code — it is described, never published, and no client is named.
 | [crypto-investment-management-portfolio-ai-system](https://github.com/pranay123-stack/crypto-investment-management-portfolio-ai-system) | **Design spec** — no code |
 
 
-## 🖼️ NFT Engineering
+## 🖼️ Web3 NFT
 
 | Repo | Status |
 |---|---|
