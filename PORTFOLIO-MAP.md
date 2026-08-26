@@ -99,22 +99,6 @@ the code — it is described, never published, and no client is named.
 | [rwa-tokenization-projects](https://github.com/pranay123-stack/rwa-tokenization-projects) · [neobank-projects](https://github.com/pranay123-stack/neobank-projects) | **Design spec** — no code |
 | [crypto-investment-management-portfolio-ai-system](https://github.com/pranay123-stack/crypto-investment-management-portfolio-ai-system) | **Design spec** — no code |
 
-## ⛓️ Onchain Protocol Engineering
-
-| Repo | Status |
-|---|---|
-| [trustflow](https://github.com/pranay123-stack/trustflow) | Built — 157 tests incl. Foundry fuzz + invariant; live on Monad testnet |
-| [noxstream](https://github.com/pranay123-stack/noxstream) | Built — plaintext-leak scanner test; 5 contracts live on Sepolia |
-| [hook-explorer](https://github.com/pranay123-stack/hook-explorer) | Built — grant application, not a hackathon |
-| [matchcall](https://github.com/pranay123-stack/matchcall) | Built — verified executable on devnet |
-| [guardian-keeperhub](https://github.com/pranay123-stack/guardian-keeperhub) | Built — real unattended Sepolia tx, x402 USDC on Base |
-| [aura-card-asp](https://github.com/pranay123-stack/aura-card-asp) | Built — MCP + EIP-3009 gasless settlement; **no test suite** |
-| [kitty-nimiq-mini-app](https://github.com/pranay123-stack/kitty-nimiq-mini-app) | Built — **not yet shipped**, deploy URL is a placeholder |
-| [web3-projects](https://github.com/pranay123-stack/web3-projects) | Built — contains vendored upstream 0x-settler code, disclosed |
-| [chainlink-community-tools](https://github.com/pranay123-stack/chainlink-community-tools) | Built — developer tooling |
-| [crypto-wallet-development](https://github.com/pranay123-stack/crypto-wallet-development) | *Archived* — never deployed |
-| [defi-projects](https://github.com/pranay123-stack/defi-projects) · [nft-projects](https://github.com/pranay123-stack/nft-projects) · [socialfi-projects](https://github.com/pranay123-stack/socialfi-projects) | **Design spec** — no code |
-| [crypto-wallet-projects](https://github.com/pranay123-stack/crypto-wallet-projects) · [web3-payments-projects](https://github.com/pranay123-stack/web3-payments-projects) · [web3-development-projects](https://github.com/pranay123-stack/web3-development-projects) | **Design spec** — no code |
 
 ## 🖼️ NFT Engineering
 
