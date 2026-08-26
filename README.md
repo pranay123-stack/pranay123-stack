@@ -29,7 +29,7 @@ onchain protocols.
 | 🏛️ | **[Crypto Exchange Development](https://github.com/pranay123-stack/crypto-exchange-development)** | Order books, matching engines, venue simulators and exchange-agnostic connectivity |
 | 🏦 | **[Investment Management](https://github.com/pranay123-stack/investment-management)** | Portfolio construction and tokenized assets — crypto, equities, real estate |
 
-### Onchain
+### Blockchain (Web3 & DeFi)
 
 | | Portfolio | What's in it |
 |---|---|---|
@@ -37,11 +37,16 @@ onchain protocols.
 | 🖼️ | **[NFT Engineering](https://github.com/pranay123-stack/nft-engineering)** | Marketplaces, compliant asset tokenization with identity and transfer rules, in-game NFT economies |
 |  🕹️ | **[Web3 Gaming](https://github.com/pranay123-stack/web3-gaming)** | Tokenized assets, server-attested rewards and play-to-earn mechanics — contracts to game client |
 
-### AI & Products
+### AI Engineering
 
 | | Portfolio | What's in it |
 |---|---|---|
 | 🤖 | **[AI & LLM Engineering](https://github.com/pranay123-stack/ai-llm-engineering)** | MCP servers, agentic payment rails, and applied ML inside trading systems |
+
+### Products
+
+| | Portfolio | What's in it |
+|---|---|---|
 | 💻 | **[Full-Stack Product Engineering](https://github.com/pranay123-stack/fullstack-product-engineering)** | NestJS commerce platform, Next.js client work, Go transactional backends |
 | 🗂️ | **[Administrative App](https://github.com/pranay123-stack/administrative-app)** | High-stakes performance management — ratings driving reward and retention, with audit and appeal paths |
 | 💘 | **[Dating App](https://github.com/pranay123-stack/dating-app)** | Matching, discovery, trust & safety — in development |
