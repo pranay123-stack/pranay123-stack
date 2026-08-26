@@ -94,7 +94,7 @@ rather than delivered work, and each page says so.
 | 🎬 | **[Video Editing](https://github.com/pranay123-stack/video-editing)** | Assembly, rhythm, sound design and colour — in development |
 | 📺 | **[Ad Shoot](https://github.com/pranay123-stack/ad-shoot)** | Commercial production and campaign versioning — in development |
 
-### Media & Ventures
+### Ventures
 
 | | Portfolio | What's in it |
 |---|---|---|
