@@ -1,0 +1,207 @@
+# Complete Repository Map
+
+Every repository on this account and the portfolio it belongs to. Nothing is orphaned.
+
+Each repo is labelled by what it actually is:
+
+- **Built** — working code with tests you can run
+- **Design spec** — an architecture document with **no source code**; each carries a banner
+  saying so, and any performance figure in it is an unmeasured target, not a result
+- **Learning / archived** — kept for completeness, not presented as finished work
+
+Some repositories appear under more than one portfolio. This is an index, so cross-listing
+costs nothing and keeps work findable.
+
+---
+
+## ⚡ Low-Latency Execution Systems
+
+| Repo | Status |
+|---|---|
+| [crypto-mm-engine](https://github.com/pranay123-stack/crypto-mm-engine) | Built — C++20, lock-free primitives, ~60 test files; self-declared phase 10 of 16 |
+| [polymarket-copy-trading-hft-rust](https://github.com/pranay123-stack/polymarket-copy-trading-hft-rust) | Built — **341 tests verified by execution**, 13-crate workspace, 0 unsafe |
+| [polymarket-live-clob-research](https://github.com/pranay123-stack/polymarket-live-clob-research) | Built — **177/177 tests verified** on real recorded data |
+| [crypto-hft-market-making-system](https://github.com/pranay123-stack/crypto-hft-market-making-system) | Built — 284 source / 44 test files; renamed to drop unfalsifiable "profitable" |
+| [NSE_xts_broker_hft_arbitrage_strategy_pinsec](https://github.com/pranay123-stack/NSE_xts_broker_hft_arbitrage_strategy_pinsec) | Built — 6-process live system, recorded orders. **No tests**; client-rights review pending |
+| [NSE-equity-HFT-market-making-system](https://github.com/pranay123-stack/NSE-equity-HFT-market-making-system) · [NSE-derivatives-HFT-market-making-system](https://github.com/pranay123-stack/NSE-derivatives-HFT-market-making-system) | **Design spec** — no code |
+| [NSE-equity-xts-api-HFT-system](https://github.com/pranay123-stack/NSE-equity-xts-api-HFT-system) · [NSE-derivatives-xts-api-HFT-system](https://github.com/pranay123-stack/NSE-derivatives-xts-api-HFT-system) | **Design spec** — no code |
+| [forex-HFT-market-making-algorithmic-trading-bot](https://github.com/pranay123-stack/forex-HFT-market-making-algorithmic-trading-bot) | **Design spec** — no code |
+
+## 🎯 Prediction Market Systems
+
+| Repo | Status |
+|---|---|
+| [polymarket-live-clob-research](https://github.com/pranay123-stack/polymarket-live-clob-research) | Built — Shapley edge-loss attribution, deterministic replay |
+| [polymarket-copy-trading-hft-rust](https://github.com/pranay123-stack/polymarket-copy-trading-hft-rust) | Built — recovered deployed EIP-712 scheme from mainnet |
+| [matchcall](https://github.com/pranay123-stack/matchcall) | Built — Anchor program verified `executable: true` on devnet |
+| [nba-prediction-edge](https://github.com/pranay123-stack/nba-prediction-edge) | Built — **has never traded**; dry-run by default, stated openly |
+| [polymarket-hft-arbitrage](https://github.com/pranay123-stack/polymarket-hft-arbitrage) | **Does not compile** — 215 errors, tests never ran; labelled in a banner |
+| [prediction-market-projects](https://github.com/pranay123-stack/prediction-market-projects) | **Design spec** — no code |
+
+## 📈 Algorithmic Trading
+
+| Repo | Status |
+|---|---|
+| [Algorithmic-Trading-Projects](https://github.com/pranay123-stack/Algorithmic-Trading-Projects) | Built — 10 strategy projects; ~96% of files are CSV data. Personal contract purged from history |
+| [Tradingview_Pinescript_Strategy](https://github.com/pranay123-stack/Tradingview_Pinescript_Strategy) | Built — 2 non-repainting Pine v6 strategies; source also copied into the portfolio |
+| [crypto-medium-frequency-Algorithmic-trading](https://github.com/pranay123-stack/crypto-medium-frequency-Algorithmic-trading) | Built — committed venv removed, 1117 → 100 files |
+| [learning_python_crypto_trading](https://github.com/pranay123-stack/learning_python_crypto_trading) | Learning material, labelled as such |
+| [NSE-equity-MFT-strategies-zerodha](https://github.com/pranay123-stack/NSE-equity-MFT-strategies-zerodha) · [NSE-derivatives-MFT-strategies-zerodha](https://github.com/pranay123-stack/NSE-derivatives-MFT-strategies-zerodha) | **Design spec** — no code |
+| [forex-medium-frequency-algorithmic-trading-bot](https://github.com/pranay123-stack/forex-medium-frequency-algorithmic-trading-bot) | **Design spec** — no code |
+
+## 🦄 DeFi Algorithmic Trading
+
+| Repo | Status |
+|---|---|
+| [hook-explorer](https://github.com/pranay123-stack/hook-explorer) | Built — Uniswap v4 pre-trade hook risk analysis; **383+ tests**, Playwright, CI |
+| [web3-projects](https://github.com/pranay123-stack/web3-projects) → `Uniswap_sniper_bot` | Built — 6-agent mempool sniper with a safety gate |
+| [web3-projects](https://github.com/pranay123-stack/web3-projects) → `defi-lending-protocol` | Built — fuzz tests, live on Sepolia |
+| [defi-projects](https://github.com/pranay123-stack/defi-projects) | **Design spec** — no code |
+
+## 🐸 Memecoin Algorithmic Trading
+
+| Repo | Status |
+|---|---|
+| [web3-projects](https://github.com/pranay123-stack/web3-projects) → `Uniswap_sniper_bot` | Built — stored twice byte-identically in the monorepo (packaging bug) |
+| [web3-projects](https://github.com/pranay123-stack/web3-projects) → `pump-fun-clone` | Built — 135-file Solana bonding-curve launchpad |
+| [memecoin-projects](https://github.com/pranay123-stack/memecoin-projects) | **Design spec** — no code |
+
+## 🏇 Algorithmic Sports Betting
+
+| Repo | Status |
+|---|---|
+| [Smarkets_Sports_Quant_Trading](https://github.com/pranay123-stack/Smarkets_Sports_Quant_Trading) | Primary home — arbitrage detector, outcome model, backtester. **Does not currently run** |
+| [nba-prediction-edge](https://github.com/pranay123-stack/nba-prediction-edge) | Cross-listed — sports traded as event contracts |
+| [matchcall](https://github.com/pranay123-stack/matchcall) | Cross-listed — World Cup outcome market on Solana |
+
+## 🏛️ Crypto Exchange Development
+
+| Repo | Status |
+|---|---|
+| [crypto-mm-engine](https://github.com/pranay123-stack/crypto-mm-engine) | Built — order book and matching internals, boundary tests in ctest |
+| [crypto-hft-market-making-system](https://github.com/pranay123-stack/crypto-hft-market-making-system) | Built — multi-exchange order book core |
+| [crypto-exchange-projects](https://github.com/pranay123-stack/crypto-exchange-projects) | **Design spec** — no code |
+
+## 🏦 Investment Management
+
+| Repo | Status |
+|---|---|
+| [web3-projects](https://github.com/pranay123-stack/web3-projects) | Built — tokenized real estate (27 files), neobank/yield primitives |
+| [rwa-tokenization-projects](https://github.com/pranay123-stack/rwa-tokenization-projects) · [neobank-projects](https://github.com/pranay123-stack/neobank-projects) | **Design spec** — no code |
+| [crypto-investment-management-portfolio-ai-system](https://github.com/pranay123-stack/crypto-investment-management-portfolio-ai-system) | **Design spec** — no code |
+
+## ⛓️ Onchain Protocol Engineering
+
+| Repo | Status |
+|---|---|
+| [trustflow](https://github.com/pranay123-stack/trustflow) | Built — 157 tests incl. Foundry fuzz + invariant; live on Monad testnet |
+| [noxstream](https://github.com/pranay123-stack/noxstream) | Built — plaintext-leak scanner test; 5 contracts live on Sepolia |
+| [hook-explorer](https://github.com/pranay123-stack/hook-explorer) | Built — grant application, not a hackathon |
+| [matchcall](https://github.com/pranay123-stack/matchcall) | Built — verified executable on devnet |
+| [guardian-keeperhub](https://github.com/pranay123-stack/guardian-keeperhub) | Built — real unattended Sepolia tx, x402 USDC on Base |
+| [aura-card-asp](https://github.com/pranay123-stack/aura-card-asp) | Built — MCP + EIP-3009 gasless settlement; **no test suite** |
+| [kitty-nimiq-mini-app](https://github.com/pranay123-stack/kitty-nimiq-mini-app) | Built — **not yet shipped**, deploy URL is a placeholder |
+| [web3-projects](https://github.com/pranay123-stack/web3-projects) | Built — contains vendored upstream 0x-settler code, disclosed |
+| [chainlink-community-tools](https://github.com/pranay123-stack/chainlink-community-tools) | Built — developer tooling |
+| [crypto-wallet-development](https://github.com/pranay123-stack/crypto-wallet-development) | *Archived* — never deployed |
+| [defi-projects](https://github.com/pranay123-stack/defi-projects) · [nft-projects](https://github.com/pranay123-stack/nft-projects) · [socialfi-projects](https://github.com/pranay123-stack/socialfi-projects) | **Design spec** — no code |
+| [crypto-wallet-projects](https://github.com/pranay123-stack/crypto-wallet-projects) · [web3-payments-projects](https://github.com/pranay123-stack/web3-payments-projects) · [web3-development-projects](https://github.com/pranay123-stack/web3-development-projects) | **Design spec** — no code |
+
+## 🖼️ NFT Engineering
+
+| Repo | Status |
+|---|---|
+| [web3-projects](https://github.com/pranay123-stack/web3-projects) → `Real Estate web3` | Built — NFT marketplace + compliant tokenization with identity/transfer rules |
+| [web3-projects](https://github.com/pranay123-stack/web3-projects) → `web3-farming-game` | Built — in-game NFT assets and marketplace |
+| [nft-projects](https://github.com/pranay123-stack/nft-projects) | **Design spec** — no code |
+
+## 🎮 GameFi & Web3 Gaming
+
+| Repo | Status |
+|---|---|
+| [web3-projects](https://github.com/pranay123-stack/web3-projects) → `web3-farming-game` | Built — 45 files: 5 contracts, game client with scene system, Node server. **No tests** |
+| [web3-gaming-projects](https://github.com/pranay123-stack/web3-gaming-projects) | **Design spec** — no code |
+| [matchcall](https://github.com/pranay123-stack/matchcall) | Adjacent — onchain wagering settlement pattern |
+
+## 🤖 AI & LLM Engineering
+
+| Repo | Status |
+|---|---|
+| [aura-card-asp](https://github.com/pranay123-stack/aura-card-asp) | Built — real MCP server + Anthropic/OpenAI pipeline; no test suite |
+| [guardian-keeperhub](https://github.com/pranay123-stack/guardian-keeperhub) | Autonomous agent — **contains no LLM**, labelled |
+| [Smarkets_Sports_Quant_Trading](https://github.com/pranay123-stack/Smarkets_Sports_Quant_Trading) | Applied ML — RandomForest, Keras LSTM, PPO; does not currently run |
+| [Algorithmic-Trading-Projects](https://github.com/pranay123-stack/Algorithmic-Trading-Projects) | Applied NLP — sentence-transformer event matching |
+| [crypto-investment-management-portfolio-ai-system](https://github.com/pranay123-stack/crypto-investment-management-portfolio-ai-system) | **Design spec** — no code |
+
+## 💻 Full-Stack Product Engineering
+
+| Repo | Status |
+|---|---|
+| [boutique-ecommerce-platform](https://github.com/pranay123-stack/boutique-ecommerce-platform) | Built — **269 test declarations**, CI on real Postgres + Redis |
+| [estatehub](https://github.com/pranay123-stack/estatehub) | Built — Next.js 16 + Prisma 7 marketplace MVP, 148 tests |
+| [ipspl-website](https://github.com/pranay123-stack/ipspl-website) | Built — live client work; README test count corrected 91 → 68 |
+| [hiremi-lease-flow](https://github.com/pranay123-stack/hiremi-lease-flow) | Built — Go, transactional outbox, 26 tests |
+| [hook-explorer](https://github.com/pranay123-stack/hook-explorer) | Cross-referenced — best-tested Next.js codebase here |
+| [creator-platform](https://github.com/pranay123-stack/creator-platform) | *Archived* — mock data, no backend |
+| [Social-Service-Projects-for-Recognition](https://github.com/pranay123-stack/Social-Service-Projects-for-Recognition) | *Archived* — one-day prototype |
+
+## 🗂️ Administrative App
+
+| Repo | Status |
+|---|---|
+| [reality-show-platform](https://github.com/pranay123-stack/reality-show-platform) | Built — ranking, scoring rounds and elimination mechanics with test suites |
+| [noxstream](https://github.com/pranay123-stack/noxstream) | Built — confidential payroll with plaintext-leak scanner test |
+| [hiremi-lease-flow](https://github.com/pranay123-stack/hiremi-lease-flow) | Built — transactional outbox for payout correctness |
+| [administrative-app](https://github.com/pranay123-stack/administrative-app) | **In development** — product scoped, not built |
+
+## 💘 Dating App
+
+| Repo | Status |
+|---|---|
+| [dating-app](https://github.com/pranay123-stack/dating-app) | **In development** — scope and structure published, no implementation yet |
+
+## 🎉 Home Party App
+
+| Repo | Status |
+|---|---|
+| [kitty-nimiq-mini-app](https://github.com/pranay123-stack/kitty-nimiq-mini-app) | **Built** — non-custodial group pot, host/contribute/settle flow. No test framework; not deployed |
+| [home-party-app](https://github.com/pranay123-stack/home-party-app) | **In development** — invites, RSVP, contribution lists scoped |
+
+## 📚 Group Study App
+
+| Repo | Status |
+|---|---|
+| [learning_python_crypto_trading](https://github.com/pranay123-stack/learning_python_crypto_trading) | Published — 13-step Python curriculum ladder |
+| [group-study-app](https://github.com/pranay123-stack/group-study-app) | **In development** — Rust and C++ curriculum written but not yet published |
+
+## 📺 Reality Show Engineering
+
+| Repo | Status |
+|---|---|
+| [reality-show-platform](https://github.com/pranay123-stack/reality-show-platform) | Built — Turborepo monorepo, 367 files, **88 test files**, written security audit |
+| [matchcall](https://github.com/pranay123-stack/matchcall) | Adjacent — onchain settlement for audience wagering |
+
+## 🎬 OTT & Film Writing
+
+| Repo | Status |
+|---|---|
+| [ott-film-writing](https://github.com/pranay123-stack/ott-film-writing) | **In development** — structure published, no scripts released yet |
+
+## 🚀 Startup & Fundraising
+
+| Repo | Status |
+|---|---|
+| [hook-explorer](https://github.com/pranay123-stack/hook-explorer) | Grant application + working tool, 383+ tests, CI |
+| [crypto-hft-market-making-system](https://github.com/pranay123-stack/crypto-hft-market-making-system) | 9-part investor deck — projections, not results |
+| [Hackathons](https://github.com/pranay123-stack/Hackathons) | Index of grant and competition submissions with on-chain outcomes |
+| [startup-and-fundraising](https://github.com/pranay123-stack/startup-and-fundraising) | Portfolio index |
+
+## Superseded
+
+| Repo | Status |
+|---|---|
+| [pranay-full-portfolio](https://github.com/pranay123-stack/pranay-full-portfolio) | Redirects to the current portfolios |
+
+---
+
+**Totals:** 20 portfolios · all repositories public · **0 deleted** · 21 labelled as design specifications
