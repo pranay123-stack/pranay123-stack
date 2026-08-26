@@ -13,7 +13,6 @@ onchain protocols.
 
 | | Portfolio | What's in it |
 |---|---|---|
-| ⚡ | **[Low-Latency Execution Systems](https://github.com/pranay123-stack/low-latency-execution-systems)** | Rust + C++20 execution engines, matching-engine internals, venue adapters written from measurement |
 | 🎯 | **[Prediction Market Systems](https://github.com/pranay123-stack/prediction-market-systems)** | Polymarket execution research, a copy-trading engine, an onchain pari-mutuel protocol |
 | 🦄 | **[DeFi Algorithmic Trading](https://github.com/pranay123-stack/defi-algorithmic-trading)** | Onchain execution against DEX liquidity — mempool strategies, Uniswap v4 pre-trade risk analysis |
 | 🐸 | **[Memecoin Algorithmic Trading](https://github.com/pranay123-stack/memecoin-algorithmic-trading)** | Mempool sniping with onchain safety screening, and pump.fun-style launchpad mechanics |

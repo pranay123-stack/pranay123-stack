@@ -14,18 +14,6 @@ costs nothing and keeps work findable.
 
 ---
 
-## ⚡ Low-Latency Execution Systems
-
-| Repo | Status |
-|---|---|
-| [crypto-mm-engine](https://github.com/pranay123-stack/crypto-mm-engine) | Built — C++20, lock-free primitives, ~60 test files; self-declared phase 10 of 16 |
-| [polymarket-copy-trading-hft-rust](https://github.com/pranay123-stack/polymarket-copy-trading-hft-rust) | Built — **341 tests verified by execution**, 13-crate workspace, 0 unsafe |
-| [polymarket-live-clob-research](https://github.com/pranay123-stack/polymarket-live-clob-research) | Built — **177/177 tests verified** on real recorded data |
-| [crypto-hft-market-making-system](https://github.com/pranay123-stack/crypto-hft-market-making-system) | Built — 284 source / 44 test files; renamed to drop unfalsifiable "profitable" |
-| [NSE_xts_broker_hft_arbitrage_strategy_pinsec](https://github.com/pranay123-stack/NSE_xts_broker_hft_arbitrage_strategy_pinsec) | Built — 6-process live system, recorded orders. **No tests**; client-rights review pending |
-| [NSE-equity-HFT-market-making-system](https://github.com/pranay123-stack/NSE-equity-HFT-market-making-system) · [NSE-derivatives-HFT-market-making-system](https://github.com/pranay123-stack/NSE-derivatives-HFT-market-making-system) | **Design spec** — no code |
-| [NSE-equity-xts-api-HFT-system](https://github.com/pranay123-stack/NSE-equity-xts-api-HFT-system) · [NSE-derivatives-xts-api-HFT-system](https://github.com/pranay123-stack/NSE-derivatives-xts-api-HFT-system) | **Design spec** — no code |
-| [forex-HFT-market-making-algorithmic-trading-bot](https://github.com/pranay123-stack/forex-HFT-market-making-algorithmic-trading-bot) | **Design spec** — no code |
 
 ## 🎯 Prediction Market Systems
 
@@ -226,4 +214,4 @@ the code — it is described, never published, and no client is named.
 
 ---
 
-**Totals:** 28 portfolios · all repositories public · **0 deleted** · 21 labelled as design specifications
+**Totals:** 27 portfolios · all repositories public · **0 deleted** · 21 labelled as design specifications
