@@ -74,6 +74,14 @@ costs nothing and keeps work findable.
 | [nba-prediction-edge](https://github.com/pranay123-stack/nba-prediction-edge) | Cross-listed — sports traded as event contracts |
 | [matchcall](https://github.com/pranay123-stack/matchcall) | Cross-listed — World Cup outcome market on Solana |
 
+## 💱 Forex Trading Strategies
+
+| Repo | Status |
+|---|---|
+| [forex-mt5-strategies](https://github.com/pranay123-stack/forex-mt5-strategies) | Built — 7 Expert Advisors in MQL5, Strategy Tester reports, design docs |
+| [forex-HFT-market-making-algorithmic-trading-bot](https://github.com/pranay123-stack/forex-HFT-market-making-algorithmic-trading-bot) | **Design spec** — no code |
+| [forex-medium-frequency-algorithmic-trading-bot](https://github.com/pranay123-stack/forex-medium-frequency-algorithmic-trading-bot) | **Design spec** — no code |
+
 ## 🏛️ Crypto Exchange Development
 
 | Repo | Status |
@@ -205,4 +213,4 @@ costs nothing and keeps work findable.
 
 ---
 
-**Totals:** 20 portfolios · all repositories public · **0 deleted** · 21 labelled as design specifications
+**Totals:** 21 portfolios · all repositories public · **0 deleted** · 21 labelled as design specifications
