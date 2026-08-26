@@ -112,14 +112,15 @@ costs nothing and keeps work findable.
 | Repo | Status |
 |---|---|
 | [web3-projects](https://github.com/pranay123-stack/web3-projects) → `Real Estate web3` | Built — NFT marketplace + compliant tokenization with identity/transfer rules |
-| [web3-projects](https://github.com/pranay123-stack/web3-projects) → `web3-farming-game` | Built — in-game NFT assets and marketplace |
+| [web3-farming-game](https://github.com/pranay123-stack/web3-farming-game) | Built — in-game NFT assets and a peer-to-peer marketplace |
 | [nft-projects](https://github.com/pranay123-stack/nft-projects) | **Design spec** — no code |
 
 ## 🎮 GameFi & Web3 Gaming
 
 | Repo | Status |
 |---|---|
-| [web3-projects](https://github.com/pranay123-stack/web3-projects) → `web3-farming-game` | Built — 45 files: 5 contracts, game client with scene system, Node server. **No tests** |
+| [onchain-endless-runner](https://github.com/pranay123-stack/onchain-endless-runner) | Built — Three.js runner, EIP-712 reward vault, anti-cheat attestation. **159 tests**, live on Base Sepolia |
+| [web3-farming-game](https://github.com/pranay123-stack/web3-farming-game) | Built — 5 contracts, browser game client, Node server. **No tests** |
 | [web3-gaming-projects](https://github.com/pranay123-stack/web3-gaming-projects) | **Design spec** — no code |
 | [matchcall](https://github.com/pranay123-stack/matchcall) | Adjacent — onchain wagering settlement pattern |
 

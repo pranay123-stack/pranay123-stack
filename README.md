@@ -28,7 +28,7 @@ onchain protocols.
 |---|---|---|
 | ⛓️ | **[Onchain Protocol Engineering](https://github.com/pranay123-stack/onchain-protocol-engineering)** | Web3 / blockchain in full — DeFi, wallets, NFTs, payments, bridges, GameFi, RWA, onchain agents |
 | 🖼️ | **[NFT Engineering](https://github.com/pranay123-stack/nft-engineering)** | Marketplaces, compliant asset tokenization with identity and transfer rules, in-game NFT economies |
-| 🎮 | **[GameFi & Web3 Gaming](https://github.com/pranay123-stack/gamefi-web3-gaming)** | Onchain game economies — tokenized land and items, play-to-earn, built contracts-to-client |
+| 🎮 | **[GameFi & Web3 Gaming](https://github.com/pranay123-stack/gamefi-web3-gaming)** | Onchain endless runner with server-attested rewards, and a play-to-earn farming game |
 
 ### AI & Products
 
