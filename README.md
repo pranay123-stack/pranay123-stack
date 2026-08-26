@@ -9,7 +9,7 @@ onchain protocols.
 
 ---
 
-### Trading & Markets
+### Trading and Investing
 
 | | Portfolio | What's in it |
 |---|---|---|
