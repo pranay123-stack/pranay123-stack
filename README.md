@@ -34,6 +34,8 @@ top of its page, because a profile is only useful if you can tell the difference
 | 🏇 | **[Algorithmic Sports Betting](https://github.com/pranay123-stack/algorithmic-sports-betting)** | Exchange arbitrage, outcome modelling and staking — football, basketball, horse racing |
 | 💱 | **[Forex Trading Strategies](https://github.com/pranay123-stack/forex-trading-strategies)** | MQL5 Expert Advisors with custom parametric oscillators and Strategy Tester reports |
 | ₿ | **[Crypto Trading Strategies](https://github.com/pranay123-stack/crypto-trading-strategies)** | Statistical arbitrage, ICT smart-money, mean reversion and market-making bots |
+| 📊 | **[TradingView Pine Script](https://github.com/pranay123-stack/tradingview-pinescript)** | Non-repainting ICT strategies with written repainting audits, futures scripts, ES indicator toolkit |
+| 🎞️ | **[ATAS & Order Flow](https://github.com/pranay123-stack/atas-orderflow-scripts)** | Tape speed and range bars — Pine implementations of ATAS order-flow concepts |
 | 🇮🇳 | **[NSE Option Trading Strategies](https://github.com/pranay123-stack/nse-options-strategies)** | NIFTY/BANKNIFTY F&O — put-call parity arbitrage, ICT options scalping via Kite and XTS |
 | 🇮🇳 | **[NSE Equity Trading Strategies](https://github.com/pranay123-stack/nse-equity-strategies)** | Intraday systematic entries on NIFTY 50 and F&O-eligible stocks |
 | 📊 | **[NASDAQ Futures Trading Strategies](https://github.com/pranay123-stack/nasdaq-futures-strategies)** | NQ/MNQ intraday ICT and opening-range execution through IBKR TWS |
