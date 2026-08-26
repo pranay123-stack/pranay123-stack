@@ -42,6 +42,7 @@ onchain protocols.
 | 🧰 | **[Web3 Community Tools](https://github.com/pranay123-stack/web3-community-tools)** | Chainlink CCIP fee estimation, price-feed monitoring, VRF and Automation health |
 | 📣 | **[Web3 Social Media Manager](https://github.com/pranay123-stack/web3-social-media-manager)** | Discord, X, Telegram, LinkedIn, Instagram, Facebook — share-surface built, scheduling layer in development |
 | 🏁 | **[Web3 Hackathons](https://github.com/pranay123-stack/web3-hackathons)** | Eight competition and grant projects with verifiable on-chain outcomes |
+| 🎓 | **[Web3 Grants](https://github.com/pranay123-stack/web3-grants)** | Protocol foundation applications and the software written to back them |
 | ✍️ | **[Web3 Articles](https://github.com/pranay123-stack/web3-articles)** | Technical writing on protocol engineering — in development |
 | 🪂 | **[Web3 Airdrop Participation](https://github.com/pranay123-stack/web3-airdrop-participation)** | Protocol participation and deployment history across seven networks — in development |
 
