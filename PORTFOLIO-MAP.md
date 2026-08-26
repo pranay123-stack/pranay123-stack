@@ -38,16 +38,6 @@ costs nothing and keeps work findable.
 | [polymarket-hft-arbitrage](https://github.com/pranay123-stack/polymarket-hft-arbitrage) | **Does not compile** — 215 errors, tests never ran; labelled in a banner |
 | [prediction-market-projects](https://github.com/pranay123-stack/prediction-market-projects) | **Design spec** — no code |
 
-## 📈 Algorithmic Trading
-
-| Repo | Status |
-|---|---|
-| [Algorithmic-Trading-Projects](https://github.com/pranay123-stack/Algorithmic-Trading-Projects) | Built — 10 strategy projects; ~96% of files are CSV data. Personal contract purged from history |
-| [Tradingview_Pinescript_Strategy](https://github.com/pranay123-stack/Tradingview_Pinescript_Strategy) | Built — 2 non-repainting Pine v6 strategies; source also copied into the portfolio |
-| [crypto-medium-frequency-Algorithmic-trading](https://github.com/pranay123-stack/crypto-medium-frequency-Algorithmic-trading) | Built — committed venv removed, 1117 → 100 files |
-| [learning_python_crypto_trading](https://github.com/pranay123-stack/learning_python_crypto_trading) | Learning material, labelled as such |
-| [NSE-equity-MFT-strategies-zerodha](https://github.com/pranay123-stack/NSE-equity-MFT-strategies-zerodha) · [NSE-derivatives-MFT-strategies-zerodha](https://github.com/pranay123-stack/NSE-derivatives-MFT-strategies-zerodha) | **Design spec** — no code |
-| [forex-medium-frequency-algorithmic-trading-bot](https://github.com/pranay123-stack/forex-medium-frequency-algorithmic-trading-bot) | **Design spec** — no code |
 
 ## 🦄 DeFi Algorithmic Trading
 
@@ -236,4 +226,4 @@ the code — it is described, never published, and no client is named.
 
 ---
 
-**Totals:** 29 portfolios · all repositories public · **0 deleted** · 21 labelled as design specifications
+**Totals:** 28 portfolios · all repositories public · **0 deleted** · 21 labelled as design specifications
