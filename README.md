@@ -49,6 +49,14 @@ onchain protocols.
 |---|---|---|
 | 💻 | **[Full-Stack Product Engineering](https://github.com/pranay123-stack/fullstack-product-engineering)** | NestJS commerce platform, Next.js client work, Go transactional backends |
 | 🗂️ | **[Administrative App](https://github.com/pranay123-stack/administrative-app)** | High-stakes performance management — ratings driving reward and retention, with audit and appeal paths |
+
+### Creative Tech Ideas
+
+Product concepts of my own, in development. Each says plainly what is built and what
+is only scoped — none is presented as shipped.
+
+| | Portfolio | What's in it |
+|---|---|---|
 | 💘 | **[Dating App](https://github.com/pranay123-stack/dating-app)** | Matching, discovery, trust & safety — in development |
 | 🎉 | **[Home Party App](https://github.com/pranay123-stack/home-party-app)** | Group event hosting — a working non-custodial shared-cost pot, wider product in development |
 | 📚 | **[Group Study App](https://github.com/pranay123-stack/group-study-app)** | Collaborative learning — built on real Rust and low-latency C++ curriculum; app in development |
