@@ -40,6 +40,7 @@ top of its page, because a profile is only useful if you can tell the difference
 | 🇮🇳 | **[NSE Equity Trading Strategies](https://github.com/pranay123-stack/nse-equity-strategies)** | Intraday systematic entries on NIFTY 50 and F&O-eligible stocks |
 | 📊 | **[NASDAQ Futures Trading Strategies](https://github.com/pranay123-stack/nasdaq-futures-strategies)** | NQ/MNQ intraday ICT and opening-range execution through IBKR TWS |
 | 📉 | **[ES Futures Trading Strategies](https://github.com/pranay123-stack/es-futures-strategies)** | E-mini S&P 500 breakout and ICT structure, TradingView Pine into IBKR |
+| 🇺🇸 | **[SPX & SPY Trading Strategies](https://github.com/pranay123-stack/spx-spy-strategies)** | 0DTE and short-dated index options — credit spreads, iron condors, butterflies via IBKR TWS |
 | 🗽 | **[NASDAQ Equity Trading Strategies](https://github.com/pranay123-stack/nasdaq-equity-strategies)** | Systematic single-name US equity work — in development |
 | 🇹🇼 | **[Taiwan HFT Trading Strategies](https://github.com/pranay123-stack/taiwan-hft-strategies)** | Low-latency trading on TWSE and TAIFEX — in development |
 | 🇦🇺 | **[ASX Trading Strategies](https://github.com/pranay123-stack/asx-trading-strategies)** | Australian Securities Exchange systematic trading — in development |
