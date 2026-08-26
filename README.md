@@ -84,6 +84,17 @@ product at scale is the fastest way to meet the problems its engineers solved.
 |---|---|---|
 | 📘 | **[Facebook App](https://github.com/pranay123-stack/facebook-app)** | Social platform — feed ranking, social graph, read-time privacy enforcement; in development |
 
+### Tech Consulting for Startups
+
+Independent system teardowns and architecture proposals for consumer-scale products.
+Unsolicited analysis from public information — no affiliation with any company named.
+
+| | Portfolio | What's in it |
+|---|---|---|
+| 🧭 | **[Tech Consulting for Startups](https://github.com/pranay123-stack/tech-consulting-for-startups)** | Hub — teardowns, plus the published engineering behind the pitch |
+| 🍽️ | **[Zomato — System Teardown](https://github.com/pranay123-stack/zomato-system-teardown)** | Dispatch, ETA prediction, batching, real-time tracking — in development |
+| 🛒 | **[Zepto — System Teardown](https://github.com/pranay123-stack/zepto-system-teardown)** | Dark-store inventory, sub-15-minute fulfilment, picker orchestration — in development |
+
 ### Media and Filmmaking
 
 Writing, production and post — plus the software side of live formats. Most is direction
