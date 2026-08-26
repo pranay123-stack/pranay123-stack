@@ -42,6 +42,9 @@ onchain protocols.
 | | Portfolio | What's in it |
 |---|---|---|
 | 🤖 | **[AI & LLM Engineering](https://github.com/pranay123-stack/ai-llm-engineering)** | MCP servers, agentic payment rails, and applied ML inside trading systems |
+| 🧠 | **[Machine Learning Prediction](https://github.com/pranay123-stack/machine-learning-prediction)** | Trained RandomForest, LSTM and PPO models; embedding-based cross-market event matching |
+| 🕹️ | **[Agentic Applications](https://github.com/pranay123-stack/agentic-applications)** | MCP server with a schema-validated LLM pipeline; an autonomous agent with a real unattended transaction |
+| 🎙️ | **[Voice AI Agents](https://github.com/pranay123-stack/voice-ai-agents)** | Real-time speech, telephony and tool-using dialogue — in development |
 
 ### Products
 
@@ -60,6 +63,15 @@ is only scoped — none is presented as shipped.
 | 💘 | **[Dating App](https://github.com/pranay123-stack/dating-app)** | Matching, discovery, trust & safety — in development |
 | 🎉 | **[Home Party App](https://github.com/pranay123-stack/home-party-app)** | Group event hosting — a working non-custodial shared-cost pot, wider product in development |
 | 📚 | **[Group Study App](https://github.com/pranay123-stack/group-study-app)** | Collaborative learning — built on real Rust and low-latency C++ curriculum; app in development |
+
+### Competitor Tech Apps
+
+Reimplementations of established consumer platforms — chosen because rebuilding a
+product at scale is the fastest way to meet the problems its engineers solved.
+
+| | Portfolio | What's in it |
+|---|---|---|
+| 📘 | **[Facebook App](https://github.com/pranay123-stack/facebook-app)** | Social platform — feed ranking, social graph, read-time privacy enforcement; in development |
 
 ### Media & Ventures
 
