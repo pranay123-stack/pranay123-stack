@@ -28,6 +28,7 @@ onchain protocols.
 | 🇦🇺 | **[ASX Trading Strategies](https://github.com/pranay123-stack/asx-trading-strategies)** | Australian Securities Exchange systematic trading — in development |
 | 🏛️ | **[Crypto Exchange Development](https://github.com/pranay123-stack/crypto-exchange-development)** | Order books, matching engines, venue simulators and exchange-agnostic connectivity |
 | 🏦 | **[Investment Management](https://github.com/pranay123-stack/investment-management)** | Portfolio construction and tokenized assets — crypto, equities, real estate |
+| 🏆 | **[Algo Trading Competitions](https://github.com/pranay123-stack/algo-trading-competition)** | Agent arenas, prop-firm evaluations and quant tournaments |
 
 ### Blockchain (Web3 & DeFi)
 
@@ -45,6 +46,8 @@ onchain protocols.
 | 🧠 | **[Machine Learning Prediction](https://github.com/pranay123-stack/machine-learning-prediction)** | Trained RandomForest, LSTM and PPO models; embedding-based cross-market event matching |
 | 🕹️ | **[Agentic Applications](https://github.com/pranay123-stack/agentic-applications)** | MCP server with a schema-validated LLM pipeline; an autonomous agent with a real unattended transaction |
 | 🎙️ | **[Voice AI Agents](https://github.com/pranay123-stack/voice-ai-agents)** | Real-time speech, telephony and tool-using dialogue — in development |
+| 🏅 | **[Kaggle Competitions](https://github.com/pranay123-stack/kaggle-competition)** | Applied ML under a public leaderboard — in development |
+| 📐 | **[Numerai Competitions](https://github.com/pranay123-stack/numerai-competition)** | Obfuscated-feature modelling with staked predictions — in development |
 
 ### Products
 
@@ -73,12 +76,28 @@ product at scale is the fastest way to meet the problems its engineers solved.
 |---|---|---|
 | 📘 | **[Facebook App](https://github.com/pranay123-stack/facebook-app)** | Social platform — feed ranking, social graph, read-time privacy enforcement; in development |
 
+### Media and Filmmaking
+
+Writing, production and post — plus the software side of live formats. Most is direction
+rather than delivered work, and each page says so.
+
+| | Portfolio | What's in it |
+|---|---|---|
+| 🎬 | **[Media and Filmmaking](https://github.com/pranay123-stack/media-and-filmmaking)** | Hub — writing, production, post-production and live formats |
+| 📺 | **[Reality Show Engineering](https://github.com/pranay123-stack/reality-show-engineering)** | Live-format platforms — audience voting at scale, contestant state, show-day operations |
+| 🎬 | **[OTT & Film Writing](https://github.com/pranay123-stack/ott-film-writing)** | Screenwriting and series development — in progress, scripts not yet published |
+| 🎞️ | **[Film](https://github.com/pranay123-stack/film)** | Feature and short-film development — in development |
+| 📖 | **[Novel](https://github.com/pranay123-stack/novel)** | Long-form fiction — in development |
+| ▶️ | **[YouTube](https://github.com/pranay123-stack/youtube)** | Long- and short-form video for an algorithmic feed — in development |
+| 🪄 | **[AI Filmmaking](https://github.com/pranay123-stack/ai-filmmaking)** | Generative video, image and audio as production tools — in development |
+| ✂️ | **[AI Editing](https://github.com/pranay123-stack/ai-editing)** | Transcript-driven cutting, automated selects, audio repair — in development |
+| 🎬 | **[Video Editing](https://github.com/pranay123-stack/video-editing)** | Assembly, rhythm, sound design and colour — in development |
+| 📺 | **[Ad Shoot](https://github.com/pranay123-stack/ad-shoot)** | Commercial production and campaign versioning — in development |
+
 ### Media & Ventures
 
 | | Portfolio | What's in it |
 |---|---|---|
-| 📺 | **[Reality Show Engineering](https://github.com/pranay123-stack/reality-show-engineering)** | Live-format platforms — audience voting at scale, contestant state, show-day operations |
-| 🎬 | **[OTT & Film Writing](https://github.com/pranay123-stack/ott-film-writing)** | Screenwriting and series development — in progress, scripts not yet published |
 | 🚀 | **[Startup & Fundraising](https://github.com/pranay123-stack/startup-and-fundraising)** | Grant applications, investor materials, and the tested systems behind them |
 
 ---
