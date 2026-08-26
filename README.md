@@ -36,6 +36,8 @@ onchain protocols.
 |---|---|---|
 | ⛓️ | **[Web3 Infrastructure](https://github.com/pranay123-stack/web3-infrastructure)** | Web3 / blockchain in full — DeFi, wallets, NFTs, payments, bridges, GameFi, RWA, onchain agents |
 | 🖼️ | **[NFT Engineering](https://github.com/pranay123-stack/nft-engineering)** | Marketplaces, compliant asset tokenization with identity and transfer rules, in-game NFT economies |
+| 🏢 | **[RWA — Real Estate](https://github.com/pranay123-stack/rwa-real-estate)** | Permissioned property tokens with an onchain identity registry and compliance module |
+| 🏦 | **[DeFi Protocols](https://github.com/pranay123-stack/defi-protocols)** | Identity-gated undercollateralized lending on Monad; collateralized lending with fuzz tests |
 |  🕹️ | **[Web3 Gaming](https://github.com/pranay123-stack/web3-gaming)** | Tokenized assets, server-attested rewards and play-to-earn mechanics — contracts to game client |
 | 🔍 | **[Web3 Auditing](https://github.com/pranay123-stack/web3-auditing)** | Solana static analysis, token risk scoring, fuzz and invariant security testing |
 | 🏗️ | **[Web3 Infrastructure](https://github.com/pranay123-stack/web3-infrastructure)** | Message bridges, validator registries, Merkle proofs, lock-and-mint bridging |
