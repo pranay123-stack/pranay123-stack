@@ -115,7 +115,7 @@ costs nothing and keeps work findable.
 | [web3-farming-game](https://github.com/pranay123-stack/web3-farming-game) | Built — in-game NFT assets and a peer-to-peer marketplace |
 | [nft-projects](https://github.com/pranay123-stack/nft-projects) | **Design spec** — no code |
 
-## 🎮 GameFi & Web3 Gaming
+##  🕹️ Onchain Game Economies
 
 | Repo | Status |
 |---|---|
