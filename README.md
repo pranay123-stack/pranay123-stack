@@ -21,6 +21,13 @@ onchain protocols.
 | 🏇 | **[Algorithmic Sports Betting](https://github.com/pranay123-stack/algorithmic-sports-betting)** | Exchange arbitrage, outcome modelling and staking — football, basketball, horse racing |
 | 💱 | **[Forex Trading Strategies](https://github.com/pranay123-stack/forex-trading-strategies)** | MQL5 Expert Advisors with custom parametric oscillators and Strategy Tester reports |
 | ₿ | **[Crypto Trading Strategies](https://github.com/pranay123-stack/crypto-trading-strategies)** | Statistical arbitrage, ICT smart-money, mean reversion and market-making bots |
+| 🇮🇳 | **[NSE Option Trading Strategies](https://github.com/pranay123-stack/nse-options-strategies)** | NIFTY/BANKNIFTY F&O — put-call parity arbitrage, ICT options scalping via Kite and XTS |
+| 🇮🇳 | **[NSE Equity Trading Strategies](https://github.com/pranay123-stack/nse-equity-strategies)** | Intraday systematic entries on NIFTY 50 and F&O-eligible stocks |
+| 📊 | **[NASDAQ Futures Trading Strategies](https://github.com/pranay123-stack/nasdaq-futures-strategies)** | NQ/MNQ intraday ICT and opening-range execution through IBKR TWS |
+| 📉 | **[ES Futures Trading Strategies](https://github.com/pranay123-stack/es-futures-strategies)** | E-mini S&P 500 breakout and ICT structure, TradingView Pine into IBKR |
+| 🗽 | **[NASDAQ Equity Trading Strategies](https://github.com/pranay123-stack/nasdaq-equity-strategies)** | Systematic single-name US equity work — in development |
+| 🇹🇼 | **[Taiwan HFT Trading Strategies](https://github.com/pranay123-stack/taiwan-hft-strategies)** | Low-latency trading on TWSE and TAIFEX — in development |
+| 🇦🇺 | **[ASX Trading Strategies](https://github.com/pranay123-stack/asx-trading-strategies)** | Australian Securities Exchange systematic trading — in development |
 | 🏛️ | **[Crypto Exchange Development](https://github.com/pranay123-stack/crypto-exchange-development)** | Order books, matching engines, venue simulators and exchange-agnostic connectivity |
 | 🏦 | **[Investment Management](https://github.com/pranay123-stack/investment-management)** | Portfolio construction and tokenized assets — crypto, equities, real estate |
 

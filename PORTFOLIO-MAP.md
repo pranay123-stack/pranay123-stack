@@ -90,6 +90,21 @@ costs nothing and keeps work findable.
 | [crypto-medium-frequency-Algorithmic-trading](https://github.com/pranay123-stack/crypto-medium-frequency-Algorithmic-trading) | Built — MFT strategies, 1s–15m |
 | [Tradingview_Pinescript_Strategy](https://github.com/pranay123-stack/Tradingview_Pinescript_Strategy) | Built — 2 non-repainting Pine v6 strategies |
 
+## 🌏 Market-Specific Strategy Portfolios
+
+Strategy work by venue. Where a category rests on commercial engagements, the client owns
+the code — it is described, never published, and no client is named.
+
+| Portfolio | Backing |
+|---|---|
+| [nse-options-strategies](https://github.com/pranay123-stack/nse-options-strategies) | **Published** put-call parity arbitrage system + engagement work (described only) + 3 design specs |
+| [nse-equity-strategies](https://github.com/pranay123-stack/nse-equity-strategies) | Engagement work (described only) + 3 design specs |
+| [nasdaq-futures-strategies](https://github.com/pranay123-stack/nasdaq-futures-strategies) | Two engagements (described only) — NQ, IBKR TWS, ICT/ORB |
+| [es-futures-strategies](https://github.com/pranay123-stack/es-futures-strategies) | Engagements (described only) — ES + SPX 0DTE, TradingView into IBKR |
+| [nasdaq-equity-strategies](https://github.com/pranay123-stack/nasdaq-equity-strategies) | **In development** — no implementation, stated openly |
+| [taiwan-hft-strategies](https://github.com/pranay123-stack/taiwan-hft-strategies) | **In development** — no implementation, stated openly |
+| [asx-trading-strategies](https://github.com/pranay123-stack/asx-trading-strategies) | **In development** — no implementation, stated openly |
+
 ## 🏛️ Crypto Exchange Development
 
 | Repo | Status |
@@ -221,4 +236,4 @@ costs nothing and keeps work findable.
 
 ---
 
-**Totals:** 22 portfolios · all repositories public · **0 deleted** · 21 labelled as design specifications
+**Totals:** 29 portfolios · all repositories public · **0 deleted** · 21 labelled as design specifications
