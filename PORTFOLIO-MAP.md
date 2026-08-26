@@ -82,6 +82,14 @@ costs nothing and keeps work findable.
 | [forex-HFT-market-making-algorithmic-trading-bot](https://github.com/pranay123-stack/forex-HFT-market-making-algorithmic-trading-bot) | **Design spec** — no code |
 | [forex-medium-frequency-algorithmic-trading-bot](https://github.com/pranay123-stack/forex-medium-frequency-algorithmic-trading-bot) | **Design spec** — no code |
 
+## ₿ Crypto Trading Strategies
+
+| Repo | Status |
+|---|---|
+| [Algorithmic-Trading-Projects](https://github.com/pranay123-stack/Algorithmic-Trading-Projects) | Built — ICT smart-money flagship, pair trader, 9 strategy bots |
+| [crypto-medium-frequency-Algorithmic-trading](https://github.com/pranay123-stack/crypto-medium-frequency-Algorithmic-trading) | Built — MFT strategies, 1s–15m |
+| [Tradingview_Pinescript_Strategy](https://github.com/pranay123-stack/Tradingview_Pinescript_Strategy) | Built — 2 non-repainting Pine v6 strategies |
+
 ## 🏛️ Crypto Exchange Development
 
 | Repo | Status |
@@ -213,4 +221,4 @@ costs nothing and keeps work findable.
 
 ---
 
-**Totals:** 21 portfolios · all repositories public · **0 deleted** · 21 labelled as design specifications
+**Totals:** 22 portfolios · all repositories public · **0 deleted** · 21 labelled as design specifications

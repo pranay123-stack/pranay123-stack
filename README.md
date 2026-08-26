@@ -20,6 +20,7 @@ onchain protocols.
 | 🐸 | **[Memecoin Algorithmic Trading](https://github.com/pranay123-stack/memecoin-algorithmic-trading)** | Mempool sniping with onchain safety screening, and pump.fun-style launchpad mechanics |
 | 🏇 | **[Algorithmic Sports Betting](https://github.com/pranay123-stack/algorithmic-sports-betting)** | Exchange arbitrage, outcome modelling and staking — football, basketball, horse racing |
 | 💱 | **[Forex Trading Strategies](https://github.com/pranay123-stack/forex-trading-strategies)** | MQL5 Expert Advisors with custom parametric oscillators and Strategy Tester reports |
+| ₿ | **[Crypto Trading Strategies](https://github.com/pranay123-stack/crypto-trading-strategies)** | Statistical arbitrage, ICT smart-money, mean reversion and market-making bots |
 | 🏛️ | **[Crypto Exchange Development](https://github.com/pranay123-stack/crypto-exchange-development)** | Order books, matching engines, venue simulators and exchange-agnostic connectivity |
 | 🏦 | **[Investment Management](https://github.com/pranay123-stack/investment-management)** | Portfolio construction and tokenized assets — crypto, equities, real estate |
 
