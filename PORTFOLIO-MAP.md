@@ -15,7 +15,7 @@ costs nothing and keeps work findable.
 ---
 
 
-## 🎯 Prediction Market Systems
+## 🎯 Prediction Market Algorithmic Trading
 
 | Repo | Status |
 |---|---|

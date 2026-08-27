@@ -28,7 +28,7 @@ top of its page, because a profile is only useful if you can tell the difference
 
 | | Portfolio | What's in it |
 |---|---|---|
-| 🎯 | **[Prediction Market Systems](https://github.com/pranay123-stack/prediction-market-systems)** | Polymarket execution research, a copy-trading engine, an onchain pari-mutuel protocol |
+| 🎯 | **[Prediction Market Algorithmic Trading](https://github.com/pranay123-stack/prediction-market-algorithmic-trading)** | Polymarket execution research, a copy-trading engine, an onchain pari-mutuel protocol |
 | 🦄 | **[DeFi Algorithmic Trading](https://github.com/pranay123-stack/defi-algorithmic-trading)** | Onchain execution against DEX liquidity — mempool strategies, Uniswap v4 pre-trade risk analysis |
 | 🐸 | **[Memecoin Algorithmic Trading](https://github.com/pranay123-stack/memecoin-algorithmic-trading)** | Mempool sniping with onchain safety screening, and pump.fun-style launchpad mechanics |
 | 🏇 | **[Algorithmic Sports Betting](https://github.com/pranay123-stack/algorithmic-sports-betting)** | Exchange arbitrage, outcome modelling and staking — football, basketball, horse racing |
