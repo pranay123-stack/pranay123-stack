@@ -112,6 +112,8 @@ the code — it is described, never published, and no client is named.
 
 | Repo | Status |
 |---|---|
+| [nova-station-web3-metaverse](https://github.com/pranay123-stack/nova-station-web3-metaverse) | Built — 3D metaverse, 11 contracts, 415 tests, CI green |
+| [web3-trading-card-game](https://github.com/pranay123-stack/web3-trading-card-game) | Built — ERC-1155 cards, server-authoritative battles, 411 tests, CI green |
 | [onchain-endless-runner](https://github.com/pranay123-stack/onchain-endless-runner) | Built — Three.js runner, EIP-712 reward vault, anti-cheat attestation. **159 tests**, live on Base Sepolia |
 | [web3-farming-game](https://github.com/pranay123-stack/web3-farming-game) | Built — 5 contracts, browser game client, Node server. **No tests** |
 | [web3-gaming-projects](https://github.com/pranay123-stack/web3-gaming-projects) | **Design spec** — no code |

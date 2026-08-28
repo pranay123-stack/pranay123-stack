@@ -57,7 +57,7 @@ top of its page, because a profile is only useful if you can tell the difference
 | 🏦 | **[DeFi Protocols](https://github.com/pranay123-stack/defi-protocols)** | Identity-gated undercollateralized lending on Monad; collateralized lending with fuzz tests |
 | 💳 | **[x402 Agent Payments](https://github.com/pranay123-stack/x402-agent-payments)** | Two live pay-per-call endpoints settling in real USDT and USDC across X Layer and Base mainnet |
 | 👛 | **[Web3 Wallet](https://github.com/pranay123-stack/web3-wallet)** | Non-custodial design, EIP-712/EIP-3009 authorisation, programmable authority for autonomous accounts |
-|  🕹️ | **[Web3 Gaming](https://github.com/pranay123-stack/web3-gaming)** | Tokenized assets, server-attested rewards and play-to-earn mechanics — contracts to game client |
+|  🕹️ | **[Web3 Gaming](https://github.com/pranay123-stack/web3-gaming)** | A 3D metaverse, an onchain card game, a runner with server-attested rewards — 4 games, 985+ tests |
 | 🔍 | **[Web3 Auditing](https://github.com/pranay123-stack/web3-auditing)** | Solana static analysis, token risk scoring, fuzz and invariant security testing |
 | 🏗️ | **[Web3 Infrastructure](https://github.com/pranay123-stack/web3-infrastructure)** | Message bridges, validator registries, Merkle proofs, lock-and-mint bridging |
 | 🧰 | **[Web3 Community Tools](https://github.com/pranay123-stack/web3-community-tools)** | Chainlink CCIP fee estimation, price-feed monitoring, VRF and Automation health |
