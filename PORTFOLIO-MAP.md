@@ -44,6 +44,12 @@ costs nothing and keeps work findable.
 | [web3-projects](https://github.com/pranay123-stack/web3-projects) → `pump-fun-clone` | Built — 135-file Solana bonding-curve launchpad |
 | [memecoin-projects](https://github.com/pranay123-stack/memecoin-projects) | **Design spec** — no code |
 
+## ⚖️ Delta Exchange Crypto Algorithmic Trading
+
+| Repo | Status |
+|---|---|
+| [delta-exchange-mt5-hedging](https://github.com/pranay123-stack/delta-exchange-mt5-hedging) | Built — 402 tests, 25/25 acceptance steps, strict mypy. **Paper only**; no live order path exists, enforced by five structural barriers each covered by a test |
+
 ## 🏇 Algorithmic Sports Betting
 
 | Repo | Status |
