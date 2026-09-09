@@ -48,6 +48,7 @@ top of its page, because a profile is only useful if you can tell the difference
 | 🏛️ | **[Crypto Exchange Development](https://github.com/pranay123-stack/crypto-exchange-development)** | Order books, matching engines, venue simulators and exchange-agnostic connectivity |
 | 🏦 | **[Investment Management](https://github.com/pranay123-stack/investment-management)** | Portfolio construction and tokenized assets — crypto, equities, real estate |
 | 🏆 | **[Algo Trading Competitions](https://github.com/pranay123-stack/algo-trading-competition)** | Agent arenas, prop-firm evaluations and quant tournaments |
+| 🥇 | **[Algo Trading Hackathons](https://github.com/pranay123-stack/algo-trading-hackathons)** | DEGA NBA prediction-market build on DoraHacks, plus trading-mechanic hackathon projects |
 
 ### Blockchain (Web3 & DeFi)
 

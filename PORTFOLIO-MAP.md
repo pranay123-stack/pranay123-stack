@@ -89,6 +89,14 @@ the code — it is described, never published, and no client is named.
 | [taiwan-hft-strategies](https://github.com/pranay123-stack/taiwan-hft-strategies) | **In development** — no implementation, stated openly |
 | [asx-trading-strategies](https://github.com/pranay123-stack/asx-trading-strategies) | **In development** — no implementation, stated openly |
 
+## 🥇 Algo Trading Hackathons
+
+| Repo | Status |
+|---|---|
+| [nba-prediction-edge](https://github.com/pranay123-stack/nba-prediction-edge) | DEGA NBA Playoffs Prediction Market Hackathon (DoraHacks) — Canon CLI, 18 tests. **Has never traded** |
+| [matchcall](https://github.com/pranay123-stack/matchcall) | Cross-listed — TxLINE hackathon, Anchor program verified on devnet |
+| [delphi-agent-arena](https://github.com/pranay123-stack/delphi-agent-arena) | Cross-listed from Algo Trading Competitions |
+
 ## 🏛️ Crypto Exchange Development
 
 | Repo | Status |
