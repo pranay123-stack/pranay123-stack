@@ -122,6 +122,15 @@ the code — it is described, never published, and no client is named.
 | [web3-farming-game](https://github.com/pranay123-stack/web3-farming-game) | Built — in-game NFT assets and a peer-to-peer marketplace |
 | [nft-projects](https://github.com/pranay123-stack/nft-projects) | **Design spec** — no code |
 
+## 🏦 DeFi Protocols
+
+| Repo | Status |
+|---|---|
+| [delta-neutral-yield-vault](https://github.com/pranay123-stack/delta-neutral-yield-vault) | Built — ERC-4626 basis vault, 225 Foundry + 73 TS tests. Not audited |
+| [risk-aware-lending-protocol](https://github.com/pranay123-stack/risk-aware-lending-protocol) | Built — fail-closed oracles, explicit bad debt, 211 Foundry tests. Not audited |
+| [trustflow](https://github.com/pranay123-stack/trustflow) | Built — identity-gated lending, fuzz + invariant suites, live on Monad testnet |
+| [web3-projects](https://github.com/pranay123-stack/web3-projects) → `defi-lending-protocol` | Built — fuzz tests, live on Sepolia |
+
 ##  🕹️ Web3 Gaming
 
 | Repo | Status |
