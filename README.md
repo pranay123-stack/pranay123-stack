@@ -1,26 +1,25 @@
 ## Pranay Gaurav
 
-I build **execution systems** — software that turns a trading idea into orders that actually
-reach a venue, and the tests that prove it behaves before real money moves. That is the spine
-of this profile: Rust and C++20 engines, order books and venue adapters written from
-measurement rather than documentation, with strategy work spanning prediction markets, crypto,
-forex, NSE options, index futures and betting exchanges.
+I build **trading execution systems** — software that turns a trading idea into orders that
+actually reach a venue, and the tests that prove it behaves before real money moves. Rust and
+C++20 engines, order books, market-making platforms and venue adapters, written from
+measurement rather than documentation.
 
-**Onchain**, that same discipline applied to protocols — lending, real-world asset
-tokenization, NFT marketplaces, game economies and security tooling, with contracts deployed
-to Monad, Sepolia, Solana and Base mainnet. Including x402 agent payments, where software pays
-software per call in real stablecoin with no account in between.
+**Where I trade:** sports betting exchanges and prediction markets (Polymarket, Kalshi,
+Smarkets), crypto spot and perpetuals, DeFi and memecoin liquidity onchain, and traditional
+markets — forex, NSE options and equities, NASDAQ and ES futures, and SPX options through IBKR.
 
-**AI** — an MCP service with a schema-validated LLM pipeline behind a paid endpoint,
-autonomous onchain agents, and trained models: a RandomForest with committed weights, a Keras
-LSTM, a hand-rolled PPO actor-critic.
+**How I work:** paper first, with live order paths gated behind explicit risk checks. Research
+is reported as measured, including when the answer is no — one market-making study on real
+Kalshi data finds that spread capture does not pay, and that result stays in rather than being
+tuned away.
 
-**Products** — a GST-compliant commerce backend with containerised CI, live client sites, and
-a real-time platform for live entertainment formats.
+**Investing:** portfolio construction across equities and real estate, plus a crypto portfolio
+system that is still a design specification.
 
-I also keep early-stage work public instead of hidden: product concepts, system teardowns,
-media and writing projects that are scoped but not built. Every one of those says so at the
-top of its page, because a profile is only useful if you can tell the difference.
+Early-stage work stays public instead of hidden, and every repository that is in development
+or design-only says so at the top of its page — a profile is only useful if you can tell the
+difference.
 
 ---
 
