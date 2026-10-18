@@ -51,42 +51,6 @@ top of its page, because a profile is only useful if you can tell the difference
 | 🏆 | **[Algo Trading Competitions](https://github.com/pranay123-stack/algo-trading-competition)** | Agent arenas, prop-firm evaluations and quant tournaments |
 | 🥇 | **[Algo Trading Hackathons](https://github.com/pranay123-stack/algo-trading-hackathons)** | DEGA NBA prediction-market build on DoraHacks, plus trading-mechanic hackathon projects |
 
-### Blockchain (Web3 & DeFi)
-
-| | Portfolio | What's in it |
-|---|---|---|
-| 🖼️ | **[Web3 NFT](https://github.com/pranay123-stack/web3-nft)** | Marketplaces, compliant asset tokenization with identity and transfer rules, in-game NFT economies |
-| 🏢 | **[RWA — Real Estate](https://github.com/pranay123-stack/rwa-real-estate)** | Permissioned property tokens with an onchain identity registry and compliance module |
-| 🏦 | **[DeFi Protocols](https://github.com/pranay123-stack/defi-protocols)** | ERC-4626 delta-neutral basis vault, risk-aware lending with fail-closed oracles, identity-gated lending on Monad |
-| 💳 | **[x402 Agent Payments](https://github.com/pranay123-stack/x402-agent-payments)** | Two live pay-per-call endpoints settling in real USDT and USDC across X Layer and Base mainnet |
-| 👛 | **[Web3 Wallet](https://github.com/pranay123-stack/web3-wallet)** | Non-custodial design, EIP-712/EIP-3009 authorisation, programmable authority for autonomous accounts |
-|  🕹️ | **[Web3 Gaming](https://github.com/pranay123-stack/web3-gaming)** | A 3D metaverse, an onchain card game, a runner with server-attested rewards — 4 games, 985+ tests |
-| 🔍 | **[Web3 Auditing](https://github.com/pranay123-stack/web3-auditing)** | Solana static analysis, token risk scoring, fuzz and invariant security testing |
-| 🏗️ | **[Web3 Infrastructure](https://github.com/pranay123-stack/web3-infrastructure)** | Message bridges, validator registries, Merkle proofs, lock-and-mint bridging |
-| 🧰 | **[Web3 Community Tools](https://github.com/pranay123-stack/web3-community-tools)** | Chainlink CCIP fee estimation, price-feed monitoring, VRF and Automation health |
-| 📣 | **[Web3 Social Media Manager](https://github.com/pranay123-stack/web3-social-media-manager)** | Discord, X, Telegram, LinkedIn, Instagram, Facebook — share-surface built, scheduling layer in development |
-| 🏁 | **[Web3 Hackathons](https://github.com/pranay123-stack/web3-hackathons)** | Eight competition and grant projects with verifiable on-chain outcomes |
-| 🎓 | **[Web3 Grants](https://github.com/pranay123-stack/web3-grants)** | Protocol foundation applications and the software written to back them |
-| ✍️ | **[Web3 Articles](https://github.com/pranay123-stack/web3-articles)** | Technical writing on protocol engineering — in development |
-| 🪂 | **[Web3 Airdrop Participation](https://github.com/pranay123-stack/web3-airdrop-participation)** | Protocol participation and deployment history across seven networks — in development |
-
-### AI Engineering
-
-| | Portfolio | What's in it |
-|---|---|---|
-| 🤖 | **[AI & LLM Engineering](https://github.com/pranay123-stack/ai-llm-engineering)** | MCP servers, agentic payment rails, and applied ML inside trading systems |
-| 🧠 | **[Machine Learning Prediction](https://github.com/pranay123-stack/machine-learning-prediction)** | Trained RandomForest, LSTM and PPO models; embedding-based cross-market event matching |
-| 🕹️ | **[Agentic Applications](https://github.com/pranay123-stack/agentic-applications)** | MCP server with a schema-validated LLM pipeline; an autonomous agent with a real unattended transaction |
-| 🎙️ | **[Voice AI Agents](https://github.com/pranay123-stack/voice-ai-agents)** | Real-time speech, telephony and tool-using dialogue — in development |
-| 🏅 | **[Kaggle Competitions](https://github.com/pranay123-stack/kaggle-competition)** | Applied ML under a public leaderboard — in development |
-| 📐 | **[Numerai Competitions](https://github.com/pranay123-stack/numerai-competition)** | Obfuscated-feature modelling with staked predictions — in development |
-
-### Full Stack Development (Website & App)
-
-| | Portfolio | What's in it |
-|---|---|---|
-| 💻 | **[Full-Stack Product Engineering](https://github.com/pranay123-stack/fullstack-product-engineering)** | NestJS commerce platform, Next.js client work, Go transactional backends |
-
 ### Creative Tech Ideas
 
 Product concepts of my own, in development. Each says plainly what is built and what
@@ -107,17 +71,6 @@ product at scale is the fastest way to meet the problems its engineers solved.
 | | Portfolio | What's in it |
 |---|---|---|
 | 📘 | **[Facebook App](https://github.com/pranay123-stack/facebook-app)** | Social platform — feed ranking, social graph, read-time privacy enforcement; in development |
-
-### Tech Consulting for Startups
-
-Independent system teardowns and architecture proposals for consumer-scale products.
-Unsolicited analysis from public information — no affiliation with any company named.
-
-| | Portfolio | What's in it |
-|---|---|---|
-| 🧭 | **[Tech Consulting for Startups](https://github.com/pranay123-stack/tech-consulting-for-startups)** | Hub — teardowns, plus the published engineering behind the pitch |
-| 🍽️ | **[Zomato — System Teardown](https://github.com/pranay123-stack/zomato-system-teardown)** | Dispatch, ETA prediction, batching, real-time tracking — in development |
-| 🛒 | **[Zepto — System Teardown](https://github.com/pranay123-stack/zepto-system-teardown)** | Dark-store inventory, sub-15-minute fulfilment, picker orchestration — in development |
 
 ### Media and Filmmaking
 
