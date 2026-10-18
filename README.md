@@ -92,23 +92,18 @@ product at scale is the fastest way to meet the problems its engineers solved.
 |---|---|---|
 | 📘 | **[Facebook App](https://github.com/pranay123-stack/facebook-app)** | Social platform — feed ranking, social graph, read-time privacy enforcement; in development |
 
-### Media and Filmmaking
+### Creative Field
 
-Writing, production and post — plus the software side of live formats. Most is direction
-rather than delivered work, and each page says so.
+Writing across long-form, screen and live formats. All of it is in development, and each
+entry says so — none is presented as published work.
 
 | | Portfolio | What's in it |
 |---|---|---|
-| 🎬 | **[Media and Filmmaking](https://github.com/pranay123-stack/media-and-filmmaking)** | Hub — writing, production, post-production and live formats |
-| 📺 | **[Reality Show Engineering](https://github.com/pranay123-stack/reality-show-engineering)** | Live-format platforms — audience voting at scale, contestant state, show-day operations |
-| 🎬 | **[OTT & Film Writing](https://github.com/pranay123-stack/ott-film-writing)** | Screenwriting and series development — in progress, scripts not yet published |
-| 🎞️ | **[Film](https://github.com/pranay123-stack/film)** | Feature and short-film development — in development |
-| 📖 | **[Novel](https://github.com/pranay123-stack/novel)** | Long-form fiction — in development |
-| ▶️ | **[YouTube](https://github.com/pranay123-stack/youtube)** | Long- and short-form video for an algorithmic feed — in development |
-| 🪄 | **[AI Filmmaking](https://github.com/pranay123-stack/ai-filmmaking)** | Generative video, image and audio as production tools — in development |
-| ✂️ | **[AI Editing](https://github.com/pranay123-stack/ai-editing)** | Transcript-driven cutting, automated selects, audio repair — in development |
-| 🎬 | **[Video Editing](https://github.com/pranay123-stack/video-editing)** | Assembly, rhythm, sound design and colour — in development |
-| 📺 | **[Ad Shoot](https://github.com/pranay123-stack/ad-shoot)** | Commercial production and campaign versioning — in development |
+| 🧠 | **Philosophy Writing** | Essays and long-form philosophical writing — in development, not yet published |
+| 📖 | **[Novel Writing](https://github.com/pranay123-stack/novel)** | Long-form fiction — structure, drafting and revision; in development |
+| 🎬 | **[Film Writing](https://github.com/pranay123-stack/ott-film-writing)** | Feature and short-film screenwriting — structure published, scripts not yet released |
+| 📺 | **[Web Series Writing](https://github.com/pranay123-stack/ott-film-writing)** | OTT series development — episode arcs and season structure; in development |
+| 🎤 | **Reality Shows Writing** | Format writing for live reality shows — rounds, contestant arcs, show-day scripting; in development |
 
 ### Ventures
 
